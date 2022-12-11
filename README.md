@@ -13,6 +13,7 @@
 ![2](https://user-images.githubusercontent.com/91606054/206912294-3dbcc9a1-e0a2-4301-a56e-76d8dfc4b19b.png)
  
 Рисунок 13 - Созданные файлы в иерархии
+
 ![3](https://user-images.githubusercontent.com/91606054/206912304-bae48db5-d405-478c-a68d-f547a495cb28.png)
 
 Рисунок 14 - Код файла click_cubit
